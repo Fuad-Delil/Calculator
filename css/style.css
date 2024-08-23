@@ -1,0 +1,109 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url(https://cdn.pixabay.com/photo/2023/11/11/08/54/data-8380806_1280.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.top-input{
+    height: 18px;
+    width: 90px;
+    background-color: #b8aca6;
+    margin-top: 5px;
+}
+.the-Top-part{
+    width: 350px;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 10px;
+    margin-left: 60px;
+    font-size: 25px;
+    color: rgb(32, 191, 202);
+    background-color: #2c2103;
+}
+
+.first-row .c-btn{
+    background-color:#1d0daf;
+
+}
+.GT-part .tax{
+    background-color: rgb(15, 135, 123);
+}
+.screen-input{
+    width: 335px;
+    height: 55px;
+    margin: 4px 63px;
+    padding-left: 6px;
+    font-size: 35px;
+    border-radius: 9px;
+}
+.screen-input:hover{
+    background-image: url(https://cdn.pixabay.com/photo/2023/09/24/15/52/ai-generated-8273245_1280.jpg);
+    color: white;
+    padding-left: 17px;
+    border-radius: 13px;
+    font-style: italic;
+}
+.div-space{
+    padding-bottom: 37px;
+}
+.btn{
+    width: 40px;
+    height: 30px;
+    margin: 3px;
+    padding: 4px;
+    color: white;
+    background-color: #251610;
+    font-size: 15px;
+    box-shadow: 1px 1px 1px 2px rgb(142, 140, 138) ;
+    opacity: 84%;
+}
+.btn:hover{
+    background-color: #fcb698;
+    color: rgb(0, 0, 0);
+    font-style: italic;
+    font-size: 14px;
+    opacity: 54%;
+}
+.the-Top-part{
+    display: flex;
+    margin-top: 00px;
+    
+}
+.center-part{
+    width: 430px;
+    height: 260px;
+    margin: 190px;
+    margin-top: 140px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+    margin-left: 400px;
+}
+.main-part{
+    display: flex;
+    flex-wrap: wrap;
+    width: 490px;
+    margin-left: 20px;
+    
+}
+.first-row{
+    width: 49px;
+    margin-left: 48px ;
+}
+.number-row .btn{
+    color: rgb(222, 218, 6);
+}
+
+.equalsign-part{
+    display: flex;
+    margin-left: 2px;
+}
+.x-part input{
+    height: 64.9px;
+    width: 40px;
+    margin: 4px;
+}
+
